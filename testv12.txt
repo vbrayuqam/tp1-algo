@@ -1,0 +1,9 @@
+vis 2
+direct
+engrenage 10
+chaine
+engrenage 20
+essieu
+engrenage 10
+direct
+engrenage 15
